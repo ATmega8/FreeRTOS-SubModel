@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFreeRTOS.a  CMakeFiles/FreeRTOS.dir/src/tasks.c.o CMakeFiles/FreeRTOS.dir/src/queue.c.o CMakeFiles/FreeRTOS.dir/src/heap_3.c.o CMakeFiles/FreeRTOS.dir/src/timers.c.o CMakeFiles/FreeRTOS.dir/src/event_groups.c.o CMakeFiles/FreeRTOS.dir/src/port.c.o CMakeFiles/FreeRTOS.dir/src/croutine.c.o CMakeFiles/FreeRTOS.dir/src/list.c.o
+/usr/bin/ranlib libFreeRTOS.a

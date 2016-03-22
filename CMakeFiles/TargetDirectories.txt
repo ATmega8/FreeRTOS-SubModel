@@ -1,0 +1,3 @@
+/home/life/Code/FreeRTOSV8.2.1/FreeRTOS/CMakeFiles/rebuild_cache.dir
+/home/life/Code/FreeRTOSV8.2.1/FreeRTOS/CMakeFiles/edit_cache.dir
+/home/life/Code/FreeRTOSV8.2.1/FreeRTOS/CMakeFiles/FreeRTOS.dir
