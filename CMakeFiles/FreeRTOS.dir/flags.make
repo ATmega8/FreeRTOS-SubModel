@@ -6,5 +6,5 @@ C_FLAGS = -Os -g -Wall -nostartfiles -Wl,--gc-sections -mthumb -mcpu=cortex-m4 -
 
 C_DEFINES = 
 
-C_INCLUDES = -I/home/life/Code/FreeRTOSV8.2.1/FreeRTOS/inc 
+C_INCLUDES = -I/home/life/Code/STM32/F405/ROV/Source/STM32StdLib/Include/CMSIS/Device -I/home/life/Code/STM32/F405/ROV/Source/STM32StdLib/Include/CMSIS -I/home/life/Code/STM32/F405/ROV/Source/STM32StdLib/Include/STM32PeripheralsDriver -I/home/life/Code/STM32/F405/ROV/Source/STM32StdLib/Include -I/home/life/Code/STM32/F405/ROV/Source/Include -I/home/life/Code/STM32/F405/ROV/Source/PeripheralsDriver/Include -I/home/life/Code/STM32/F405/ROV/Source/Utils/Include -I/home/life/Code/STM32/F405/ROV/Source/Task/Include -I/home/life/Code/STM32/F405/ROV/FreeRTOSV821/inc 
 
